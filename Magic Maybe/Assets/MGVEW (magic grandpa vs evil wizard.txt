@@ -1,0 +1,45 @@
+MGVEW (magic grandpa vs evil wizards)
+
+Magic Grandad Doom game
+-------------------------
+"Knee Slapper" Earthquake
+Peekaboo invisibility
+Pull my finger rocket launcher
+
+
+"The Future IS Old Man"
+
+Enemies
+-----------------
+Wizards
+The Occult
+Druids or Grimoirians
+
+Lvl 1. Magic isn't real...
+Lvl 2. Due to my strong personal convictions
+Lvl 3. The sorcerer's apprentice 
+
+TO DO:
+
+Got your nose attack (on a cooldown?) [YES]
+-------------------
+Enemy #2 (Occult) [NO]
+-------------------
+Enemy #3 (Necromancer) [NO]
+-------------------
+Enemy #4 (Druid) [NO]
+-------------------
+Pull my finger rocket launcher attack [NO]
+-------------------
+Knee Slapper Earthquake [MAYBE]
+----------------------
+Parry that refreshes abilities [NO]
+------------------------
+Health pick up [YES]
+-----------------------
+Levels (tut, 1) [YES]
+------------------------
+UI [YES]
+------------------------
+Home Screen/Logo [YES]
+------------------------
